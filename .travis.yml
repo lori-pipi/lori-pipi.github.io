@@ -19,8 +19,9 @@ install:
 
 # 执行脚本 
 script:                         
+  - hexo clean                     # 清除 hexo 缓存
   - hexo generate               # 生成静态文件
-                                           # 清除 hexo 缓存
+                                           
 
 deploy:
   on:
