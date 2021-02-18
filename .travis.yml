@@ -8,7 +8,7 @@ node_js:
 
 branches:
   only:
-    - main                      # 只有 main 分支检出更改才触发 CI
+    - master                      # 只有 main 分支检出更改才触发 CI
 
 before_install:
   - export TZ='Asia/Shanghai'   # 配置时区为东八区 UTC+8
@@ -24,7 +24,7 @@ script:
 
 deploy:
   on:
-    branch: main                # 工作分支
+    branch: master                # 工作分支
   strategy: git
   provider: pages
   skip_cleanup: true            # 跳过清理
