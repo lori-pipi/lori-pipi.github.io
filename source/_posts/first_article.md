@@ -1,0 +1,15 @@
+---
+title: 2020/06/29
+---
+
+2020/6/29
+
+Today I went to our academic office to ask for leave because of my sore throat. It is annoyed and uncomfortable when the staff queried you about the rationality of taking a two days break on account of a small problem.
+
+What the hell is she thinking about? Having a sore throat is very easy to transform to a bad cough and eventually develop to a fever, especially when you don’t get enough relax. Thinking about getting a fever on this extremely special period, you could never be too cautious to treat your condition and take prevention methods.
+
+She asked me to provide a certificate of hospital. I only have a picture of my doctor’s diagnose, so she asked me to print it. When I asked for a use of our academy’s printer. She said strangers were not allowed to use it. Excuse me, I am a student of our academy, how can I be a stranger in your words? In fact, I think comparing to me , an ordinary staff is more likely to be a stranger.
+
+It is a small thing, but it truly is about our administration staffs’ attitude toward people. In China, there are too much people who are kind, patient and efficient enough to take the job. Why can’t they get an opportunity? In my opinion,every administration staff should be given a grade after every request they disposed. Bad performed employees should be fired and the opportunity should be given to other people who are so expected for the job.
+
+In the end, I hope we will have a better administration with kindness, patience, efficiency as well as enthusiasm.
