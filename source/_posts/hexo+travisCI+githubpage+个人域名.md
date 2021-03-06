@@ -2,6 +2,7 @@
 title: hexo+travisCI+githubpage+个人域名
 date: 2021-02-18 09:58:25
 updated: 2020-02-18 09:58:25
+categories: [tech]
 ---
 
 ### hexo主题和TravisCI持续集成部署

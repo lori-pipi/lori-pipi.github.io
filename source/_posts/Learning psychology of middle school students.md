@@ -2,6 +2,7 @@
 title: Learning psychology of middle school students
 date: 2021-03-04 21:58:25
 updated: 2020-03-04 21:58:25
+categories: [certificate]
 ---
 
 ### 中学生学习心理

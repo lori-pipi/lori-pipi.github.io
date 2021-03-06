@@ -2,6 +2,7 @@
 title: LIS(Longest Increasing Subsequence)
 date: 2021-03-04 09:58:25
 updated: 2020-03-04 09:58:25
+categories: [algorithm]
 ---
 
 ### DP之最长递增子序列的写法
