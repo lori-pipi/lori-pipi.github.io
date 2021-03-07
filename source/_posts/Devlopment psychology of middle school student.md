@@ -1,5 +1,5 @@
 ---
-title: 第五章中学生发展心理
+title: Devlopment psychology of middle school student
 date: 2021-03-06 12:58:25
 updated: 2020-03-06 12:58:25
 categories: [certificate]
