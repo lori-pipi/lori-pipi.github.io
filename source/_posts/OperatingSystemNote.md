@@ -122,7 +122,7 @@ Finish：是一个纵向量，表示进程能否得到全部资源使之运行�
 
 **带快表的请求分页存储管理方案**
 
-**![img](D://myblog/lori-pipi.github.io/source/images/TLB.png)**
+**![img](/images/TLB.png)**
 
 1．判断是否越界，若是，则中断，否则，继续。
 
