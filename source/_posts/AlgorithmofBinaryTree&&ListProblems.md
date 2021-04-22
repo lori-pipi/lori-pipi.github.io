@@ -1,8 +1,8 @@
 ---
-title: Computer Network Note
-date: 2021-04-02 14:58:25
-updated: 2020-04-02 14:58:25
-categories: [tech]
+title: Algorithm of BinaryTree&&List
+date: 2021-04-22 11:58:25
+updated: 2020-04-22 11:58:25
+categories: [algorithm]
 ---
 
 ### 剑指Offer刷题经验集
